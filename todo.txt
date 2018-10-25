@@ -1,0 +1,41 @@
+BUGS
+Tuesday
+  Write some story
+Wednesday
+  Change lose screen to another twine story
+  Write more story
+  Icons for all the skills
+  TEST EVERYTHING (Cheat to add skills one at a time. Make skill segments 10x the size, etc.)
+
+=======================
+
+Scale manager: resize to screen
+
+Need visual feedback for all the recurring/delayed effects
+Implement remaining skills (cure status)
+Balance encounters
+Balance skills
+SFX
+Pretty up the game visuals
+Highlight which skills are purchased
+Show which skills are available FOR purchase
+Show dependant skills for selected skills
+
+THEN WE DO THE WRITING
+  Do some unexplainable anomalous shit, make it somewhat clear to the player how it works, but don't be explicit
+  Things you should be comfortable with, but exists outside the perceivable spectrum
+    ie. The Colour Out of Space, the breathing in Beck + Call by July Talk, some other sounds
+      Maybe the character describes some sound. "Can you hear that?" but the player can't. Until later, it starts to creep in.
+      plays at odd times. Ideally plays even outside of the app. Plays more often the more time spent in the app.
+    For the presentation, can I say that we didn't get sound in the game yet (but be lying?)
+      Blood capsules in my ear? mouth? nose?
+    Really really low vocals that people might not hear. Maybe can try to test for volume increases and if so really jam it up on 'em?
+    Maybe could do some sort of cool unexplained visuals for the demo also?
+    Flashing 'subliminal' messages? Maybe the faces on the poker faces flash something sinister?
+    If you leave the app or go to a menu, when you return the poker face is closer (sometimes)
+    Pretend closing the app?
+    Pretend notifications?
+
+Things to revisit later
+  Wheel speed balanced well?
+  Combo visuals
